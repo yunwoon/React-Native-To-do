@@ -25,4 +25,4 @@
 ### 스크린샷
 | **To-Do** | **Weather** | **Diary** |
 |:--------------:|:--------------:|:--------------:|
-| <img src="https://user-images.githubusercontent.com/48541984/129242716-2dbe83b0-8f53-46f4-9ba3-2d6d586edc2a.gif" width = "250" /> | <img src="https://user-images.githubusercontent.com/48541984/129243133-67f95e23-e634-4466-b324-00bde89a1dcd.png" width = "250" /> | <img src="https://user-images.githubusercontent.com/48541984/129242743-d0a46536-bed9-4178-8e76-6f0620aed152.gif" width = "250" /> |
+| <img src="https://user-images.githubusercontent.com/48541984/129242716-2dbe83b0-8f53-46f4-9ba3-2d6d586edc2a.gif" width = "250" /> | <img src="https://user-images.githubusercontent.com/48541984/129293796-c6824f28-03e1-400d-a29a-fb85c0b3cea3.png" width = "250" /> | <img src="https://user-images.githubusercontent.com/48541984/129242743-d0a46536-bed9-4178-8e76-6f0620aed152.gif" width = "250" /> |

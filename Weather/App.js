@@ -3,7 +3,8 @@ import { StyleSheet, Text, View, ActivityIndicator } from 'react-native';
 import Weather from './app/Weather';
 import * as Location from 'expo-location';
 
-const API_KEY = process.env.REACT_APP_WEATHER_KEY
+const API_KEY = # {날씨 앱 키 작성하기}
+// const API_KEY = process.env.REACT_APP_WEATHER_KEY
 
 export default class App extends React.Component { //state 쓸거라 class 로 변경!
   constructor(props){
